@@ -1,0 +1,9 @@
+C:\Users\Doruk Emekci\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentetionLayer\bin\Debug\CSharpEgitimKampi301.PresentetionLayer.exe.config
+C:\Users\Doruk Emekci\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentetionLayer\bin\Debug\CSharpEgitimKampi301.PresentetionLayer.exe
+C:\Users\Doruk Emekci\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentetionLayer\bin\Debug\CSharpEgitimKampi301.PresentetionLayer.pdb
+C:\Users\Doruk Emekci\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentetionLayer\obj\Debug\CSharpEgitimKampi301.PresentetionLayer.csproj.AssemblyReference.cache
+C:\Users\Doruk Emekci\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentetionLayer\obj\Debug\CSharpEgitimKampi301.PresentetionLayer.Properties.Resources.resources
+C:\Users\Doruk Emekci\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentetionLayer\obj\Debug\CSharpEgitimKampi301.PresentetionLayer.csproj.GenerateResource.cache
+C:\Users\Doruk Emekci\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentetionLayer\obj\Debug\CSharpEgitimKampi301.PresentetionLayer.csproj.CoreCompileInputs.cache
+C:\Users\Doruk Emekci\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentetionLayer\obj\Debug\CSharpEgitimKampi301.PresentetionLayer.exe
+C:\Users\Doruk Emekci\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentetionLayer\obj\Debug\CSharpEgitimKampi301.PresentetionLayer.pdb
